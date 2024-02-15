@@ -4,7 +4,7 @@ Customize Leaflet maps with a linked Google Sheets template or CSV files and Geo
 ![Preview](preview.jpg)
 
 ## Live links (replace with your own)
-- Leaflet Map https://atilioagostino.github.io/leaflet-maps-with-google-sheets/
+- Leaflet Map https://atilioagostino.github.io/vecinos/
 - Google Sheets template https://docs.google.com/spreadsheets/d/1VhJ8KwYBOkLDzw8IRT0YDizprYIww_1fjzinIZ5hRv4/edit#gid=745832354
 
 ## Create your own
